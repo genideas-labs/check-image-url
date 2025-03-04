@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.2 (2025-03-04)
+
+-   Applied previous unit test code to `test/index.test.ts`.
+-   Modified `global.fetch` mocking and resolved type-related issues.
+
 ## 0.0.1 (2025-03-04)
 
 - Initial release of check-image-url library.
